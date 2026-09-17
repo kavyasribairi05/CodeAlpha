@@ -1,0 +1,7 @@
+STOCK PORTFOLIO REPORT
+======================
+
+AMZN | Quantity: 235 | Price: $185 | Value: $43475
+GOOGL | Quantity: 12 | Price: $140 | Value: $1680
+
+Total Investment Value: $45155
